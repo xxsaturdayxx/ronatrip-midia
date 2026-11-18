@@ -1,0 +1,36 @@
+{
+  "numero": 1,
+  "tema": "COMPRAS",
+  "fundo": "fundo.png",
+  "narracao": "narracao.mp3",
+  "logo": "../logo-ronatrip.png",
+  "cortes": [
+    0,
+    5.2,
+    10.75,
+    13.45
+  ],
+  "quadros": [
+    {
+      "tipo": "titulo",
+      "titulo": "O preço da etiqueta não é o preço final",
+      "sub": "Nos EUA, o imposto entra só no caixa."
+    },
+    {
+      "tipo": "numero",
+      "numero": "+6,5%",
+      "linha": "de imposto em Orlando",
+      "extra": "+7,5% em Kissimmee",
+      "fonte": "Imposto sobre vendas, taxas de 2026"
+    },
+    {
+      "tipo": "titulo",
+      "titulo": "Faça a conta antes de passar o cartão",
+      "sub": "Ex.: US$ 100 na etiqueta = US$ 106,50 no caixa em Orlando."
+    },
+    {
+      "tipo": "final"
+    }
+  ],
+  "whatsapp": "+1 (407) 409-6253"
+}
